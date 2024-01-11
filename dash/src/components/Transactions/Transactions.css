@@ -1,0 +1,33 @@
+
+.grid-c2 .grid-item-l .avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+.grid-item-l{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+.displacetoflex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#givegridgap{
+  margin-top: 30px;
+  
+}
+.card{
+  width: 600px;
+  color: white;
+  background-color: var(--clr-secondary);
+
+}
+#font{
+  color: white;
+}
+#textarea{
+  height: 200px;
+}
